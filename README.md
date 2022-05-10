@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+     
+<img align="center" alt="Let-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+          
           
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dw7koarguswqa6lpv4jpr542ri&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)

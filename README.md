@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/letcarvv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://open.spotify.com/user/31dw7koarguswqa6lpv4jpr542ri" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
       <a href="https://steamcommunity.com/profiles/76561199063589287/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
- 	<a href="letcarv#0075" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ 	
  
 </div>
  
